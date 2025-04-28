@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title-en": "Pizza Project",
+    "title-tr": "Pizza Projesi",
+    "description-en": "A dynamic pizza ordering system with customization options.",
+    "description-tr": "Özelleştirme seçenekleriyle dinamik bir pizza sipariş sistemi.",
+    "tags": ["React", "Tailwind CSS", "JavaScript"],
+    "githubLink": "",
+    "appLink": "",
+    "images": [
+      "../assets/pizza.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title-en": "E-Commerce Website",
+    "title-tr": "E-Ticaret Sitesi",
+    "description-en": "React and Router-based e-commerce website.",
+    "description-tr": "React ve Router ile yapılmış e-ticaret web sitesi.",
+    "tags": ["React", "Router", "JavaScript"],
+    "githubLink": "",
+    "appLink": "",
+    "images": [
+      ""
+    ]
+  }
+]
