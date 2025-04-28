@@ -12,7 +12,7 @@ function App() {
   useEffect(() => {
     // Gönderilecek obje
     const myData = {
-      name: "Mustafa",
+      name: "Elif",
       role: "Full-stack Developer",
       message: "Hello, World!",
     };
